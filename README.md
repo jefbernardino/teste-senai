@@ -16,3 +16,8 @@ Base do projeto feita com Vite, Vue3 e Pinia.
 - Utilizar os gerenciamentos de estados do Vue com o Pinia para a questão do carrinho e do "login";
 - Usar o SASS para o CSS, cujo arquivo inicial está em `src/assets/sass/style.scss`. Procurar fazer as estruturas de pastas e arquivos como feito nas aulas.
 - Lembrem-se da responsividade `:)`
+
+
+# Instalação:
+- Baixar o projeto, extrair na pasta desejada
+- Executar a instalação: `npm install`
