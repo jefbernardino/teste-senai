@@ -3,17 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "engines": {
-    "node": "20.12.2"
-  },
-  "description": "3Ds para clientes Super Copo",
-  "author": "Desenvolvimento Supercopo <desenvolvimentosupercopo@gmail.com>",
+  "description": "Base para projeto de fim de curso do senai",
+  "author": "Jeferson Bernardino <jefbernardino@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ti-supercopo/clientes3d.git"
+    "url": "git@github.com:jefbernardino/teste-senai.git"
   },
   "bugs": {
-    "url": "https://github.com/ti-supercopo/clientes3d/issues"
+    "url": "https://github.com/jefbernardino/teste-senai/issues"
   },
   "scripts": {
     "build": "vite build",
